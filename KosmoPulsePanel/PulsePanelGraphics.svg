@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="200mm"
+   viewBox="0 0 50 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="PulsePanelGraphics.svg"
+   inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/27_KosmoTuringMachine/Pulse/KosmoPulsePanel/PulsePanelGraphics.png"
+   inkscape:export-xdpi="1000.252"
+   inkscape:export-ydpi="1000.252"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="2"
+     inkscape:cx="236.25"
+     inkscape:cy="264.75"
+     inkscape:window-width="2560"
+     inkscape:window-height="1285"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="0,200"
+       orientation="0,377.95276"
+       id="guide824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,99.999999"
+       orientation="755.90551,0"
+       id="guide826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.999999,0"
+       orientation="0,-377.95276"
+       id="guide828"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-755.90551,0"
+       id="guide830"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid832"
+       dotted="true"
+       units="mm"
+       spacingx="2.5"
+       spacingy="2.5"
+       empspacing="10"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="30,161"
+       orientation="0,1"
+       id="guide454"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="25,37.5"
+       orientation="1,0"
+       id="guide456"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.5,187.5"
+       orientation="1,0"
+       id="guide458"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,25"
+       orientation="0,-1"
+       id="guide460"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50,50"
+       orientation="0,-1"
+       id="guide462"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="37.5,187.5"
+       orientation="1,0"
+       id="guide464"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="62.5,74.999999"
+       orientation="1,0"
+       id="guide466"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25,148.5"
+       orientation="0,1"
+       id="guide5561"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-67.074639,14.923679"
+       orientation="0,-1"
+       id="guide540"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25,37.5"
+       orientation="0,-1"
+       id="guide1017"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.5,125"
+       orientation="0,-1"
+       id="guide691"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-200,99.999999"
+       orientation="0,-1"
+       id="guide693"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-200,74.999999"
+       orientation="0,-1"
+       id="guide695"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.5,205"
+       orientation="1,0"
+       id="guide787"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.5,210"
+       orientation="1,0"
+       id="guide789"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-57.5,186"
+       orientation="0,1"
+       id="guide1208"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.3152547,173.5"
+       orientation="0,1"
+       id="guide8370"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-112.5,136"
+       orientation="0,1"
+       id="guide8372"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-32.5,62.5"
+       orientation="0,-1"
+       id="guide8374"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="-75.590551"
+       y="113.38583"
+       width="56.692913"
+       height="56.692913"
+       id="rect727" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="330.70865"
+       height="47.244099"
+       id="rect3872" />
+    <rect
+       x="141.73228"
+       y="0"
+       width="141.73228"
+       height="47.244095"
+       id="rect3812" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-7" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-8" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-4" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-44" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-448" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-5" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-0" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-0" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-2" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-1" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-5" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-9" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-3" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-27" />
+    <rect
+       x="-236.22047"
+       y="141.73228"
+       width="61.550629"
+       height="26.75382"
+       id="rect3872-8-53-57" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3810"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3812);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="141.73242"
+         y="82.634766"
+         id="tspan2323"><tspan
+           dx="0 15.683594 29.277344 27.792969 11.796875 29.921875 30.996094 12.714844 38.964844 26.660156 27.929688 30.078125 11.796875 29.921875"
+           id="tspan2321">tURING mACHINE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text725"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect727);fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.5,175 h 15"
+       id="path1540"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.5,162.5 H 37.499999"
+       id="path2193" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.5,150 H 27.499999"
+       id="path2193-1" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.500001,137.5 H 37.5"
+       id="path2193-3" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.500001,125 H 27.5"
+       id="path2193-8" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.5,100 H 27.499999"
+       id="path2193-82" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.500001,74.877079 H 27.5"
+       id="path2193-7" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.5,62.5 H 37.499999"
+       id="path2193-12" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.500001,50 H 27.5"
+       id="path2193-77" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.5,37.5 H 37.499999"
+       id="path2193-5" />
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.5,25 H 27.499999"
+       id="path2193-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="12.629395"
+       y="7.8887753"
+       id="text947-0-2-8-8-3-3-7-3-41"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="12.629395"
+         y="7.8887753"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-5"
+         rotate="0 0 0 0 0 0 0">PulsEs</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8"
+       height="4.2304411"
+       x="13.799788"
+       y="11.667518"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.616665"
+       y="15.529166"
+       id="text947-0-2-8-8-3-3-7-3-3"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.616665"
+         y="15.529166"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18"
+         rotate="0 0">1</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8"
+       height="4.2304411"
+       x="13.799788"
+       y="36.899998"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.616665"
+       y="40.761646"
+       id="text947-0-2-8-8-3-3-7-3-3-5"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.616665"
+         y="40.761646"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8"
+         rotate="0 0">2</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8-9"
+       height="4.2304411"
+       x="13.677842"
+       y="61.714115"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.657508"
+       y="65.57576"
+       id="text947-0-2-8-8-3-3-7-3-3-5-3"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.657508"
+         y="65.57576"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8-2"
+         rotate="0 0">3</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8-9-4"
+       height="4.2304411"
+       x="13.760869"
+       y="86.445267"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.543777"
+       y="90.303169"
+       id="text947-0-2-8-8-3-3-7-3-3-5-3-3"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.543777"
+         y="90.303169"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8-2-9"
+         rotate="0 0">4</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8-9-7"
+       height="4.2304411"
+       x="13.889673"
+       y="111.12645"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.774641"
+       y="114.9877"
+       id="text947-0-2-8-8-3-3-7-3-3-5-3-2"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.774641"
+         y="114.9877"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8-2-5"
+         rotate="0 0">5</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8-9-8"
+       height="4.2304411"
+       x="13.577419"
+       y="136.92604"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.472463"
+       y="140.78497"
+       id="text947-0-2-8-8-3-3-7-3-3-5-3-9"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.472463"
+         y="140.78497"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8-2-0"
+         rotate="0 0">6</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-8-9-2"
+       height="4.2304411"
+       x="13.757381"
+       y="161.66187"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="3.9706481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.185208px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="14.737047"
+       y="165.52351"
+       id="text947-0-2-8-8-3-3-7-3-3-5-3-4"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="14.737047"
+         y="165.52351"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-8-2-7"
+         rotate="0 0">7</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-3"
+       height="4.2304411"
+       x="38.742229"
+       y="24.199999"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="6.8752069" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.65;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.264583px;word-spacing:-0.00264583px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="39.206619"
+       y="28.109184"
+       id="text947-0-2-8-8-3-3-7-3-3-8"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="39.206619"
+         y="28.109184"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-0"
+         rotate="0 0 0 0"
+         dx="-0.22">1+2</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-3-9"
+       height="4.2304411"
+       x="38.929722"
+       y="49.25"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="6.8752069" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.65;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.264583px;word-spacing:-0.00264583px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="39.031731"
+       y="53.111645"
+       id="text947-0-2-8-8-3-3-7-3-3-8-7"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="39.031731"
+         y="53.111645"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-0-9"
+         rotate="0 0 0 0">2+4</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-3-9-3"
+       height="4.2304411"
+       x="39.0611"
+       y="124.45483"
+       ry="0.59102499"
+       rx="0.62058944"
+       width="6.8752069" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.65;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.264583px;word-spacing:-0.00264583px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="39.258709"
+       y="128.31648"
+       id="text947-0-2-8-8-3-3-7-3-3-8-7-3"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="39.258709"
+         y="128.31648"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-0-9-4"
+         rotate="0 0 0 0">4+7</tspan></text>
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16296-8-3-9-2"
+       height="7.1907353"
+       x="39.17466"
+       y="146.8661"
+       ry="0.59102494"
+       rx="0.62058944"
+       width="6.2614202" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.65;font-family:Cubano;-inkscape-font-specification:'Cubano, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-0.0529167px;word-spacing:-0.00264583px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+       x="39.547218"
+       y="150.00522"
+       id="text947-0-2-8-8-3-3-7-3-3-8-7-2"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"
+       inkscape:export-filename="/home/sebi/Nextcloud_hetzner/synth/13_hihat/kicad/panel/fontstuff/tone.png"><tspan
+         sodipodi:role="line"
+         x="39.547218"
+         y="150.00522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         id="tspan949-8-0-5-7-9-4-2-4-18-0-9-0"
+         rotate="0 0 0 0">2+4</tspan><tspan
+         sodipodi:role="line"
+         x="39.547218"
+         y="153.84862"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.58611px;font-family:Miso;-inkscape-font-specification:'Miso, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.147917;stroke-opacity:1"
+         rotate="0 0 0 0 0 0 0"
+         id="tspan12837">4+7</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Knobs"
+     style="display:none">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785"
+       cx="12.5"
+       cy="25"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-6"
+       cx="12.5"
+       cy="50"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36364;stroke-opacity:1"
+       id="path785-1"
+       cx="-48.638172"
+       cy="-21.13813"
+       rx="6.8183451"
+       ry="6.8183751"
+       transform="matrix(-0.93035176,-0.36666826,0.36666483,-0.93035311,0,0)" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-2"
+       cx="-48.953304"
+       cy="-54.000687"
+       rx="6.818182"
+       ry="6.8181829"
+       transform="rotate(-168.77047)" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-23"
+       cx="12.5"
+       cy="75"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-3"
+       cx="12.5"
+       cy="100"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-8"
+       cx="12.5"
+       cy="125"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-4"
+       cx="12.5"
+       cy="150"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-0"
+       cx="12.5"
+       cy="175"
+       rx="6.818182"
+       ry="6.8181829" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       id="path785-05"
+       cx="-85.136559"
+       cy="-114.29902"
+       rx="6.818182"
+       ry="6.8181829"
+       transform="rotate(-158.57424)" />
+    <path
+       id="path785-02"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.36363;stroke-opacity:1"
+       d="m 30.683557,162.64925 a 6.8199922,6.8162954 44.789709 0 1 6.663507,-6.96576 6.8199922,6.8162954 44.789709 0 1 6.96938,6.66726 6.8199922,6.8162954 44.789709 0 1 -6.663509,6.96575 6.8199922,6.8162954 44.789709 0 1 -6.969378,-6.66725 z"
+       inkscape:transform-center-x="-0.40450154"
+       inkscape:transform-center-y="0.14924117" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335"
+       cx="-27.5"
+       cy="24.999998"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-6"
+       cx="-22.5"
+       cy="37.5"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-0"
+       cx="-27.5"
+       cy="50"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-4"
+       cx="-22.5"
+       cy="62.5"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-47"
+       cx="-27.5"
+       cy="74.877083"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-9"
+       cx="-27.5"
+       cy="100"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-2"
+       cx="-27.5"
+       cy="125"
+       transform="scale(-1,1)"
+       inkscape:transform-center-x="4.8861044"
+       r="2.179487" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-1"
+       cx="-22.5"
+       cy="137.5"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-8"
+       cx="-27.5"
+       cy="150"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-21"
+       cx="-22.5"
+       cy="162.5"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+    <circle
+       style="font-size:7.05556px;font-family:Myfont;-inkscape-font-specification:'Myfont, Normal';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.641026;stroke-opacity:1"
+       id="path3335-85"
+       cx="-27.5"
+       cy="175"
+       transform="scale(-1,1)"
+       r="2.179487"
+       inkscape:transform-center-x="4.8861044" />
+  </g>
+</svg>
