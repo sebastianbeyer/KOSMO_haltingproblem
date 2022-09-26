@@ -3545,7 +3545,6 @@
     )
   )
 
-
   (junction (at 410.845 328.295) (diameter 0) (color 0 0 0 0)
     (uuid 011e6a67-70ab-4030-9cfe-189ad42549de)
   )
@@ -6151,7 +6150,7 @@
     (effects (font (size 0.7112 0.7112)) (justify right bottom))
     (uuid 9cd31fc9-c786-4caf-ab82-451cf62987db)
   )
-  (label "PULSE_OUT" (at 545.465 307.975 0)
+  (label "PULSE_OUT" (at 537.845 307.975 0)
     (effects (font (size 0.7112 0.7112)) (justify left bottom))
     (uuid 9dfbab85-e389-453d-80b1-d93483b84164)
   )
@@ -6953,28 +6952,6 @@
     (pin "12" (uuid 4861ef66-7ea1-4007-8762-377dfbe532ff))
     (pin "13" (uuid 58db0006-8fc1-46ee-83d0-8000ab6300a9))
     (pin "14" (uuid 9893796d-aabe-4c48-8999-c8a6bbdee722))
-  )
-
-  (symbol (lib_id "ao_symbols:R") (at 541.655 307.975 270) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 1840c087-7e91-41f1-a09f-34fbc7881e29)
-    (property "Reference" "R39" (id 0) (at 539.115 311.785 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Value" "1k" (id 1) (at 539.115 306.705 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Footprint" "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 541.655 306.197 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 541.655 307.975 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Vendor" "Tayda" (id 4) (at 541.655 307.975 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 73b342b0-5fd0-4b88-a8a6-d32c3aa065de))
-    (pin "2" (uuid 72591a7e-b0b4-450d-93c9-7812590b5b70))
   )
 
   (symbol (lib_id "TuringBack-eagle-import:TL072P") (at 338.455 67.945 0) (unit 1)
@@ -9866,9 +9843,6 @@
     )
     (path "/78d72c1b-dafe-49ae-aa9e-de2c79ecdc0b"
       (reference "R38") (unit 1) (value "2.2k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
-    )
-    (path "/1840c087-7e91-41f1-a09f-34fbc7881e29"
-      (reference "R39") (unit 1) (value "1k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/cc2ebcc1-7b9a-4332-97f0-fe8dd2d9bd70"
       (reference "SCALE1") (unit 1) (value "50k") (footprint "ao_tht:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_centered")
